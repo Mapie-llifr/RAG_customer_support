@@ -1,6 +1,0 @@
-elasticsearch==8.11.1
-sentence-transformers==2.2.2
-torch
-transformers
-python-dotenv
-

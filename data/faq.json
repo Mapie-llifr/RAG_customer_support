@@ -1,0 +1,32 @@
+[
+    {
+      "id": "faq_1",
+      "question": "Mon espace santé, qu'est-ce que c'est ?",
+      "answer": "Mon espace santé est un service numérique individuel et personnalisable, pour tout usager du système de santé. Il permet à chacun de stocker et partager ses documents et ses données de santé en toute sécurité. Les données sont hébergées en France, sous la protection de l’Etat et de l’Assurance maladie. Il comprend notamment aujourd'hui :    Un dossier médical, pour stocker ses données de santé de façon sécurisée avec un profil médical (mesures de santé, maladies, hospitalisations, traitements, antécédents médicaux, etc.), des documents de santé (ordonnances, comptes rendus d’hospitalisation, résultats d'analyse, etc.) et un carnet de vaccination ; Une messagerie sécurisée pour échanger des informations en toute confidentialité avec les professionnels de santé ; Un catalogue d'applications certifiées par l'État pour être mieux guidé dans le choix des outils numériques utilisés pour le suivi de sa santé ; Un agenda de santé pour centraliser l’ensemble de ses rendez-vous et rappels médicaux tout en bénéficiant de rappels de prévention de l'assurance maladie ; Des articles de prévention pour prendre soin de sa santé et de celle de ses proches."
+    },
+    {
+      "id": "faq_2",
+      "question": "J'ai reçu un courrier/e-mail au sujet de Mon espace santé. Que dois-je faire ?",
+      "answer": "Vous pouvez activer dès maintenant votre profil Mon espace santé à l'aide de votre carte Vitale et du code provisoire reçu par e-mail ou courrier en cliquant sur le bouton 'Activer Mon espace santé' situé sur la page d'accueil du site monespacesante.fr. Vous pouvez également choisir de vous opposer à la création de votre profil Mon espace santé. Retrouvez en vidéo comment activer votre profil Mon espace santé. "
+    },
+    {
+      "id": "faq_3",
+      "question": "Quel est le lien entre Mon espace santé et le DMP ?",
+      "answer": "Le Dossier Médical Partagé, couramment appelé DMP, était un carnet de santé numérique permettant de stocker de façon sécurisée vos documents de santé : ordonnances, résultats d’examens, comptes rendus… Si vous aviez déjà un DMP, son contenu a automatiquement été ajouté à votre profil Mon espace santé. L'application mobile DMP et le site dmp.fr ne sont désormais plus accessibles. Pour accéder aux documents de votre ancien DMP, vous devez activer votre profil Mon espace santé."
+    },
+    {
+      "id": "faq_4",
+      "question": "D’où proviennent les données qui sont dans Mon espace santé ?",
+      "answer": "Vous pouvez vous-même ajouter des documents ou des informations de santé dans votre profil Mon espace santé. Les professionnels et établissements de santé peuvent également déposer des documents en lien avec les soins et bilans de santé que vous avez réalisés, par exemple les comptes rendus d’hospitalisation, les résultats de biologie, les ordonnances, etc. Les données de l’historique des soins de la rubrique Historique de santé contenues dans Mon espace santé sont alimentées par votre caisse d’assurance maladie."
+    },
+    {
+      "id": "faq_5",
+      "question": "Où sont stockées les données de santé contenues dans Mon espace santé et comment sont-elles sécurisées ?",
+      "answer": "Les données personnelles de santé contenues dans Mon espace santé sont hébergées en France sur des serveurs répondant aux plus hautes normes de sécurité (notamment la certification « hébergeur des données de santé » - HDS). Leur confidentialité et leur sécurité sont garanties par le Ministère chargé de la santé et l’Assurance Maladie, avec un accompagnement de l’Agence nationale de sécurité des systèmes d’information (ANSSI). Le traitement de ces données sensibles à caractère personnel est soumis aux standards RGPD et fait l’objet d’une surveillance de la CNIL. Vous pouvez retrouver toutes les informations relatives à la protection de vos données personnelles de santé en vous connectant sur : monespacesante.fr/protection-donnees-personnelles."
+    },
+    {
+      "id": "faq_6",
+      "question": "Qui a accès aux données de santé stockées dans Mon espace santé ?",
+      "answer": "Vous contrôlez l’accès aux documents stockés dans votre profil Mon espace santé. Seuls les professionnels que vous autorisez accèdent aux documents de votre profil. Vous recevez une notification dès qu’un professionnel s'y connecte. Vous pouvez également choisir de bloquer l'accès à un professionnel depuis la section 'Gestion des accès' de la rubrique 'Accès des professionnels de santé' dans le menu 'Gérer mon profil'. Dans cette même rubrique, à la section 'Confidentialité des informations' vous pouvez également masquer tous vos documents à l'ensemble des professionnels de santé. En cas d’urgence, et si vous ne vous y êtes pas opposé, les professionnels de santé pourront accéder à vos documents. Il vous est possible de consulter et modifier les accès aux professionnels de santé en cas d’urgence depuis la section 'Accès en cas d'urgence' de la rubrique 'Accès des professionnels de santé' dans le menu 'Gérer mon profil'. Les accès par les professionnels de santé sont soumis au secret médical et encadrés par la matrice d’habilitations qui définit, avec précision, le type de documents auquel chaque professionnel de santé peut accéder en fonction des informations qui lui sont utiles pour votre prise en charge. Vous pouvez consulter une version simplifiée de la matrice d'habilitation depuis le menu Gérer mon profil, dans la section 'Gestion des accès' situé dans la rubrique 'Accès des professionnels de santé'. Vous pouvez également choisir de masquer individuellement des documents aux professionnels de santé en modifiant leur confidentialité. Les documents que vous avez masqués seront uniquement accessibles par la personne les ayant déposés et vous-même. Un historique des activités vous permet de savoir qui a consulté vos données. Vous pouvez le consulter en vous rendant dans la section 'Historique d'activité' situé dans le menu 'Gérer mon profil' de Mon espace santé. Vos activités et celles de vos professionnels de santé sont séparées en 2 onglets distincts. L’État, l’Assurance Maladie, les assurances et mutuelles, les employeurs n’ont aucun accès aux données contenues dans votre profil Mon espace santé. Retrouvez en vidéo comment gérer les accès à vos données de santé sur Mon espace santé."
+    }
+]

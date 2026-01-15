@@ -1,1 +1,6 @@
-#requirements.txt
+elasticsearch==8.11.1
+sentence-transformers==2.2.2
+huggingface_hub<0.16
+torch
+transformers
+python-dotenv
