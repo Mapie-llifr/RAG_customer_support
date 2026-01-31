@@ -11,17 +11,29 @@ a simple but realistic **customer support assistant**.
 ## 🧱 Architecture
 
 User Question
+
 ↓
+
 SentenceTransformer (embedding)
+
 ↓
+
 Elasticsearch (vector search)
+
 ↓
+
 Relevant FAQ chunks
+
 ↓
+
 Prompt construction
+
 ↓
+
 Local LLM (TinyLlama)
+
 ↓
+
 Final Answer
 
 ---
